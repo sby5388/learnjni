@@ -1,0 +1,1 @@
+include ':app', ':hello-jni', ':hello-jniCallback', ':hello-neon', ':native-codec', ':native-activity'
