@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:1-15:12
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:1-15:12
+	package
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:5:11-36
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+application
+ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:6:5-14:19
+	android:label
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:6:18-50
+activity#com.example.twolibs.TwoLibs
+ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:7:9-13:20
+	android:label
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:8:19-51
+	android:name
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:7:19-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:9:13-12:29
+action#android.intent.action.MAIN
+ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:10:17-68
+	android:name
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:10:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:11:17-76
+	android:name
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml:11:27-74
+uses-sdk
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+		ADDED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml
+		INJECTED from E:\by5388\android\demos\learnjni\two-libs\src\main\AndroidManifest.xml

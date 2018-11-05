@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello-jni/hello-jni.iml" filepath="$PROJECT_DIR$/../hello-jni/hello-jni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello-jniCallback/hello-jniCallback.iml" filepath="$PROJECT_DIR$/../hello-jniCallback/hello-jniCallback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello-libs/hello-libs.iml" filepath="$PROJECT_DIR$/../hello-libs/hello-libs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello-neon/hello-neon.iml" filepath="$PROJECT_DIR$/../hello-neon/hello-neon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../learnjni.iml" filepath="$PROJECT_DIR$/../learnjni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../native-activity/native-activity.iml" filepath="$PROJECT_DIR$/../native-activity/native-activity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../native-codec/native-codec.iml" filepath="$PROJECT_DIR$/../native-codec/native-codec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/two-libs.iml" filepath="$PROJECT_DIR$/two-libs.iml" />
+    </modules>
+  </component>
+</project>

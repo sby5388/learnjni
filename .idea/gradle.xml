@@ -11,9 +11,11 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/hello-jni" />
             <option value="$PROJECT_DIR$/hello-jniCallback" />
+            <option value="$PROJECT_DIR$/hello-libs" />
             <option value="$PROJECT_DIR$/hello-neon" />
             <option value="$PROJECT_DIR$/native-activity" />
             <option value="$PROJECT_DIR$/native-codec" />
+            <option value="$PROJECT_DIR$/two-libs" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
